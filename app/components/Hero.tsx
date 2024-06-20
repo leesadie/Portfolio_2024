@@ -35,13 +35,13 @@ const Hero = () => {
                 "
             >
                 <div className={`md:block hidden`}>
-                    Studying Cognitive Science & Data Science with interests in the
+                    Studying Cognitive Science at UBC with interests in machine learning,
                 </div>
                 <div className={`md:block hidden`}>
-                    application of data, computation, and software in research.
+                    software development, and applications of data in healthcare and medicine.
                 </div>
                 <div className={`md:hidden px-10 ${font_light.className}`}>
-                    Studying Cognitive Science & Data Science with interests in the application of data, computation, and software in research.
+                    Studying Cognitive Science at UBC with interests in machine learning, software development, and applications of data in healthcare and medicine.
                 </div> 
             </div>
         </div>
