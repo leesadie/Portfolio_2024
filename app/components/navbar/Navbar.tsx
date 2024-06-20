@@ -41,7 +41,7 @@ const Navbar = () => {
                         <a
                             target='_blank'
                             rel='noopener noreferrer'
-                            href='files/Sadie Lee Resume.pdf'
+                            href='files/Sadie_Lee_Resume.pdf'
                         >
                             <Button 
                                 label="Resume"
