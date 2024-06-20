@@ -68,10 +68,10 @@ const AboutClient = () => {
                         Cognitive Systems
                     </div>
                     <div className="text-neutral-500 pl-4 pt-4 text-sm lg:text-base">
-                        Minor
+                        Focus
                     </div>
                     <div className="text-neutral-900 pl-4 text-sm lg:text-base">
-                        Data Science
+                        Mind, Language, Computation
                     </div>
                     <div className="text-neutral-500 pl-4 pt-4 text-sm lg:text-base">
                         University
@@ -83,10 +83,10 @@ const AboutClient = () => {
                         Current Position
                     </div>
                     <div className="text-neutral-900 pl-4 text-sm lg:text-base">
-                        Research Assistant @
+                        Undergraduate Intern @
                     </div>
                     <div className="text-neutral-900 pl-4 pb-4 pr-8 lg:pr-0 text-sm lg:text-base">
-                        BC Children's Hospital Research Institute
+                        Mayo Clinic - Mayo Clinic Platform
                     </div>
                 </div>
                 <div
@@ -178,7 +178,7 @@ const AboutClient = () => {
                                     lg:w-[200px]
                                 "
                             >
-                                Computational neuroscience
+                                Business Intelligence
                             </div>
                         </div>
                         <div className="pl-4 pt-3">
