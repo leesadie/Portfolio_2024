@@ -57,8 +57,8 @@ const AboutClient = () => {
                         <Image 
                             src='/images/mcplogo.svg'
                             alt="logo"
-                            height={100}
-                            width={100}
+                            height={50}
+                            width={50}
                         />
                     </div>
                     <div className="text-neutral-500 pl-4 pt-4 text-sm lg:text-base">
