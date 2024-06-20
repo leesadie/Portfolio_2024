@@ -55,7 +55,7 @@ const AboutClient = () => {
                         "
                     >
                         <Image 
-                            src='/images/ubcbcchr.svg'
+                            src='/images/mcplogo.svg'
                             alt="logo"
                             height={100}
                             width={100}
@@ -175,7 +175,8 @@ const AboutClient = () => {
                                     rounded-full
                                     py-1
                                     px-3
-                                    lg:w-[200px]
+                                    lg:w-[155px]
+                                    w-[140px]
                                 "
                             >
                                 Business Intelligence
