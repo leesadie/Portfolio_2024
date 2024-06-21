@@ -68,10 +68,10 @@ const AboutClient = () => {
                         Cognitive Systems
                     </div>
                     <div className="text-neutral-500 pl-4 pt-4 text-sm lg:text-base">
-                        Focus
+                        Minor
                     </div>
                     <div className="text-neutral-900 pl-4 text-sm lg:text-base">
-                        Mind, Language, Computation
+                        Data Science
                     </div>
                     <div className="text-neutral-500 pl-4 pt-4 text-sm lg:text-base">
                         University
